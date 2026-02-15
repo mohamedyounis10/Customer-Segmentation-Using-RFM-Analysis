@@ -24,7 +24,6 @@ Click on any section to jump directly to it:
 *   [📈 Key Insights & Results](#-key-insights--results)
 *   [🚀 How to Run](#-how-to-run)
 *   [Author](#author-)
-*   [Acknowledgments](#acknowledgments-)
 *   [License](#license-)
 ---
 
@@ -115,12 +114,6 @@ Based on the RFM Scores, customers are categorized into segments such as:
 
 ---
 
-## Acknowledgments 🙏
-
-- **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
-
----
-
 ## License 📄
 
 Add a license that matches how you want others to use your work (e.g., MIT).
@@ -130,3 +123,4 @@ Add a license that matches how you want others to use your work (e.g., MIT).
 </div>
 
 ---
+
