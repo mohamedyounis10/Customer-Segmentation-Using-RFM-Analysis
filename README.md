@@ -23,7 +23,7 @@ Click on any section to jump directly to it:
     *   [4. K-Means Clustering](#4-k-means-clustering)
 *   [📈 Key Insights & Results](#-key-insights--results)
 *   [🚀 How to Run](#-how-to-run)
-*   [Author](#-author-)
+*   [Author](#-author)
 *   [License](#license-)
 ---
 
@@ -123,5 +123,6 @@ Add a license that matches how you want others to use your work (e.g., MIT).
 </div>
 
 ---
+
 
 
