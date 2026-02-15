@@ -118,11 +118,14 @@ Based on the RFM Scores, customers are categorized into segments such as:
 
 Add a license that matches how you want others to use your work (e.g., MIT).
 
+---
+
 <div align="center">
   <p><em>Created with ❤️ for Data Science Enthusiasts</em></p>
 </div>
 
 ---
+
 
 
 
