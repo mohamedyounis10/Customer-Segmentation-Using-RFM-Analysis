@@ -108,7 +108,7 @@ Based on the RFM Scores, customers are categorized into segments such as:
 
 ---
 
-## Author
+## ✍️ Author
 
 - Name: **Mohamed Younis**
 
@@ -123,6 +123,7 @@ Add a license that matches how you want others to use your work (e.g., MIT).
 </div>
 
 ---
+
 
 
 
