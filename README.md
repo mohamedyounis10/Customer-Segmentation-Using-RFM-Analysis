@@ -23,7 +23,9 @@ Click on any section to jump directly to it:
     *   [4. K-Means Clustering](#4-k-means-clustering)
 *   [📈 Key Insights & Results](#-key-insights--results)
 *   [🚀 How to Run](#-how-to-run)
-
+*   [Author](#author-)
+*   [Acknowledgments](#acknowledgments-)
+*   [License](#license-)
 ---
 
 ## 📖 Project Overview
@@ -107,6 +109,23 @@ Based on the RFM Scores, customers are categorized into segments such as:
 
 ---
 
+## Author ✍️
+
+- Name: **Mohamed Younis**
+
+---
+
+## Acknowledgments 🙏
+
+- **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
+
+---
+
+## License 📄
+
+Add a license that matches how you want others to use your work (e.g., MIT).
+
 <div align="center">
   <p><em>Created with ❤️ for Data Science Enthusiasts</em></p>
 </div>
+
